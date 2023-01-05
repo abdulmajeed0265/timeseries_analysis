@@ -8,6 +8,8 @@ ___
 
 * The repository includes a range of projects that utilize these algorithms to analyze and predict stock prices, including a project that uses ARMA and ARIMA algorithms to analyze and forecast stock prices for a specific company. This project includes detailed reports and graphs that allow users to see the accuracy of the predictions and the impact of different variables on the outcomes.
 
+* The four main stock price used for the projects include : FTSE, DAX, NIKKEI and SPX.
+
 * In addition to these projects, the repository also includes a project that utilizes the Facebook Prophet library to forecast stock prices for a specific company. This project includes charts that allow users to easily see the accuracy of the predictions and the impact of different variables on the outcomes.
 
 * Overall, this repository contains a range of projects that demonstrate the power and versatility of different time series analysis algorithms and libraries in analyzing and predicting stock prices.
